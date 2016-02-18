@@ -1,2 +1,2 @@
 # BeginningSteps
-Leraning how to do shit
+Learning how to do shit
